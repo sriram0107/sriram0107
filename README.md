@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Sriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriram0107)](https://github.com/anuraghazra/github-readme-stats)
+![Sriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram0107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
